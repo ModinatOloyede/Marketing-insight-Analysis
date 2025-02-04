@@ -1,9 +1,24 @@
 # Marketing-insight-Analysis
 This project analyzes a retail sales dataset to uncover key insights on sales performance, categories, segments, and discount impact. Using Excel Pivot Tables and visualizations, the report highlights top-selling products, regional performance, and profitability trends.
-This project explores a marketing sales dataset to identify key trends in sales performance, categories, segments, and discount impact. Using Excel Pivot Tables and data visualizations, we analyzed factors such as:
+ Marketing Insight Analysis 📊
+Project Overview
+This project analyzes a retail sales dataset to uncover key insights related to sales performance, customer segments, regional trends, and discount impact. The goal is to provide data-driven recommendations that can help businesses optimize their marketing strategies and revenue growth.
 
-Top-Selling Products – Identifying the most profitable categories and subcategories.
-Regional Performance – Understanding which states generate the highest revenue.
-Discount Impact – Evaluating how discounts affect overall sales and profitability.
-The insights gained from this analysis can help businesses optimize their marketing strategies, pricing decisions, and inventory management.
-
+Key Insights 🔍
+Top-Selling Products – The Technology category generates the highest revenue, with Phone contributing 14.37% of total sales.
+Regional Performance – California leads in total sales, accounting for 19.93% of revenue.
+Customer Segments – The Consumer segment makes up the largest share of purchases, followed by Corporate and Home Office.
+Tools Used 🛠
+Microsoft Excel
+Pivot Tables & Charts
+Data Cleaning & Visualization
+Project Structure 📂
+Data/ – Contains the raw and cleaned datasets.
+Visualizations/ – Includes charts and dashboards used in the analysis.
+Reports/ – The final marketing insight report.
+How to Use This Project
+Download the dataset from the Data/ folder.
+Open the Excel workbook to explore pivot tables and visualizations.
+Review the Marketing Insight Report for key findings.
+Learn More About Data Analytics
+Check out HNG Internship for more opportunities in data analytics.
