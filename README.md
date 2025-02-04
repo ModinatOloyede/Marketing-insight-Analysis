@@ -1,6 +1,4 @@
-# Marketing-insight-Analysis
-This project analyzes a retail sales dataset to uncover key insights on sales performance, categories, segments, and discount impact. Using Excel Pivot Tables and visualizations, the report highlights top-selling products, regional performance, and profitability trends.
- Marketing Insight Analysis 📊
+Marketing Insight Analysis 📊
 Project Overview
 This project analyzes a retail sales dataset to uncover key insights related to sales performance, customer segments, regional trends, and discount impact. The goal is to provide data-driven recommendations that can help businesses optimize their marketing strategies and revenue growth.
 
